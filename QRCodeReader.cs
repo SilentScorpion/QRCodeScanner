@@ -10,7 +10,7 @@
     using ZXing;
     using ZXing.QrCode;
     
-    public class QRCodeScanner : MonoBehaviour {
+    public class QRCodeReader : MonoBehaviour {
     
         /*** Private variables here ***/
         private bool camAvailable;
