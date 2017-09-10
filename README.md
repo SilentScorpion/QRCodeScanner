@@ -8,8 +8,8 @@ Nowadays, we find it easier to scan QR codes directly instead of typing them out
 
 https://github.com/zxing
 
-``C# (Unity)
- //run this piece of code every 10th Frame of the Update()
+``
+
                        
                    try {
                        IBarcodeReader barcodeReader = new BarcodeReader ();
